@@ -32,7 +32,7 @@ ${
 \color{#b5e48c}⚜My\
 \color{#99d98c}name\
 \color{#76c893}is\
-\color{#52b69a}Lacxer.\
+\color{#52b69a}Lacrxer.\
 \color{#34a0a4}You\
 \color{#168aad}can\
 \color{#1a759f}call\
@@ -69,17 +69,18 @@ ${
 <p align="center">
 ${
 \color{#bdc0cb}⚜My\
-\color{#9592bb}babyboy:\
-\color{#836cab}Aptx-sgh.\
+\color{#9592bb}sweetie:\
 }$
+
+[con cho dien cute meo meo](https://github.com/Aptx-sgh)
 
 <p align="center">
 ${
 \color{#c9040f}⚜No\
 \color{#c62442}interactions:\
 \color{#c3436a}animalplay,\
-\color{#c0618a}family relationsip,\
-\color{#bd7ea1}delusions!!!\
+\color{#DE2F65}family relationsip,\
+\color{#9e0232}delusions!!!\
 }$
 
 
@@ -87,6 +88,7 @@ ${
 <img width="80" src="https://github.com/user-attachments/assets/cc61e3a2-e852-42f0-9e83-4a99fe69ad54" />
 <img width="80" src="https://github.com/user-attachments/assets/9887ed29-f39e-401b-a34a-0f6e694a4f21" />
 
+..
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Butterfly+Kids&size=40&duration=4000&pause=900&color=98FFF7&center=true&vCenter=true&width=435&lines=I+love+Kimi+Antonelli+meow+meow" alt="Typing SVG" /></a>
 
