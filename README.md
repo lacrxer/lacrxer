@@ -72,7 +72,7 @@ ${
 <p align="center">
 ${
 \color{#bdc0cb}⚜My\
-\color{#9592bb}sweetie:\
+\color{#7dcfdd}sweetie:\
 }$
 
 [con cho dien cute meo meo](https://github.com/Aptx-sgh)
