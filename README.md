@@ -59,18 +59,18 @@ ${
 
 <p align="center">
 ${
-\color{#bdc0cb}⚜My\
-\color{#9592bb}babyboy:\
-\color{#836cab}Aptx-sgh.\
-}$
-
-<p align="center">
-${
 \color{#a6cbc9}⚜Fandom:\
 \color{#8eb8c5}gay,\
 \color{#799c0}les,\
 \color{#6170ba}F1,\
 \color{#5a4db4}sleep.\
+}$
+
+<p align="center">
+${
+\color{#bdc0cb}⚜My\
+\color{#9592bb}babyboy:\
+\color{#836cab}Aptx-sgh.\
 }$
 
 <p align="center">
@@ -92,6 +92,7 @@ ${
 
 
 <img src="https://github.com/user-attachments/assets/79cf81bd-54ea-465b-b20c-cb99f1fd7a46" align="center"/>
+
 
 
 
