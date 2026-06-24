@@ -91,6 +91,7 @@ ${
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Butterfly+Kids&size=40&duration=4000&pause=900&color=98FFF7&center=true&vCenter=true&width=435&lines=I+love+Kimi+Antonelli+meow+meow" alt="Typing SVG" /></a>
 
 
+<img src="https://github.com/user-attachments/assets/79cf81bd-54ea-465b-b20c-cb99f1fd7a46" align="center"/>
 
 
 
