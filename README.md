@@ -27,7 +27,7 @@ ${
   \color{#d9ed92}hi☺\
 }$
 
-<p align="left">
+<p align="center">
 ${
 \color{#b5e48c}⚜My\
 \color{#99d98c}name\
@@ -41,7 +41,7 @@ ${
 \color{#be6788}Le.\
 }$
 
-<p align="left">
+<p align="center">
   ${
 \color{#c7e0a9}⚜I'm\
 \color{#a3d38e}an\
@@ -57,14 +57,14 @@ ${
 \color{#457d85}me!\
 }$
 
-<p align="left">
+<p align="center">
 ${
 \color{#bdc0cb}⚜My\
 \color{#9592bb}babyboy:\
 \color{#836cab}Aptx-sgh.\
 }$
 
-<p align="left">
+<p align="center">
 ${
 \color{#a6cbc9}⚜Fandom:\
 \color{#8eb8c5}gay,\
@@ -73,7 +73,7 @@ ${
 \color{#5a4db4}sleep.\
 }$
 
-<p align="left">
+<p align="center">
 ${
 \color{#c9040f}⚜No\
 \color{#c62442}interactions:\
