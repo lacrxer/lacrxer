@@ -37,8 +37,8 @@ ${
 \color{#168aad}can\
 \color{#1a759f}call\
 \color{#1e6091}me\
-\color{#a84d8a}Lac/\
-\color{#be6788}Le.\
+\color{#b5e48c}Lac/\
+\color{#99d98c}Le.\
 }$
 
 <p align="center">
