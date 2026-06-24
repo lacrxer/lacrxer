@@ -20,6 +20,9 @@ ${
 }$
 </p>
 
+<img width="1728" src="https://github.com/user-attachments/assets/54e40e8b-905d-4c52-9da7-dd984a3e0977" />
+
+
 <img width="400" src="https://github.com/user-attachments/assets/58c01e60-2ebb-42e5-a771-ff287a31d779" align="right"/>
 
 <p align="center">
@@ -83,12 +86,18 @@ ${
 \color{#9e0232}delusions!!!\
 }$
 
-
-----------
+<p align="center">
+  ${
+\color{#0c0c0c}!\
+}$
+  
 <img width="80" src="https://github.com/user-attachments/assets/cc61e3a2-e852-42f0-9e83-4a99fe69ad54" />
 <img width="80" src="https://github.com/user-attachments/assets/9887ed29-f39e-401b-a34a-0f6e694a4f21" />
+<img width="80" src="https://github.com/user-attachments/assets/7cb657df-229c-414f-aa56-9e1c5d68a620" />
 
-..
+
+<img width="1728" src="https://github.com/user-attachments/assets/b8862271-42da-4a82-a33b-2490a98cc6ce" />
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Butterfly+Kids&size=40&duration=4000&pause=900&color=98FFF7&center=true&vCenter=true&width=435&lines=I+love+Kimi+Antonelli+meow+meow" alt="Typing SVG" /></a>
 
