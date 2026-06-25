@@ -57,7 +57,7 @@
         
 <!---trình phát nhạc--->
         <audio id="musicPlayer" autoplay loop controls>
-            <source src="what-time-is-it-there-now.mp3" type="audio/mpeg">
+            <source src="music.mp3" type="audio/mpeg">
             Trình duyệt của bạn không hỗ trợ phát âm thanh.
         </audio>
 
@@ -69,20 +69,20 @@
             const audio = document.getElementById('musicPlayer');
             const status = document.getElementById('status');
 
-            // Kích hoạt tính năng tự động phát
+            
             audio.play().then(() => {
                 status.textContent = "🎵 Đang tự động phát bài hát...";
                 status.style.color = "#4caf50";
             }).catch(error => {
-                // Nếu trình duyệt chặn Autoplay (Chính sách bảo mật)
+                
                 status.textContent = "⚡ Trình duyệt đã chặn phát tự động. Vui lòng bấm vào bất kỳ đâu trên màn hình để nghe nhạc!";
               
-                                // Phát nhạc ngay khi người dùng chạm/click vào màn hình
+                                
                 document.addEventListener('click', () => {
                     audio.play();
                     status.textContent = "🎵 Đang phát bài hát...";
                     status.style.color = "#4caf50";
-                }, { once: true }); // "once: true" để sự kiện chỉ chạy duy nhất 1 lần
+                }, { once: true }); 
             });
         });
     </script>
