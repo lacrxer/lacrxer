@@ -5,10 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>What Time Is It There Now?</title>
     <style>
-        body {
+body {
             margin: 0;
             padding: 0;
-            background: linear-gradient(135deg, #1e1e2f, #0f0f1a);
+
+            background: linear-gradient(rgba(15, 15, 26, 0.6), rgba(15, 15, 26, 0.8)), 
+                        url('') no-repeat center center fixed;
+            background-size: cover;
             color: #ffffff;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             display: flex;
@@ -17,6 +20,7 @@
             height: 100vh;
             text-align: center;
         }
+
         .container {
             background: rgba(255, 255, 255, 0.05);
             padding: 40px;
@@ -71,17 +75,17 @@
 
             
             audio.play().then(() => {
-                status.textContent = "🎵 Đang tự động phát bài hát...";
-                status.style.color = "#4caf50";
+                status.textContent = "🎵 Đang hát cho em nghe...";
+                status.style.color = "#5aa371";
             }).catch(error => {
                 
-                status.textContent = "⚡ Trình duyệt đã chặn phát tự động. Vui lòng bấm vào bất kỳ đâu trên màn hình để nghe nhạc!";
+                status.textContent = "⚡ Bấm vô bất cứ đâu để nghe nha.";
               
                                 
                 document.addEventListener('click', () => {
                     audio.play();
                     status.textContent = "🎵 Đang phát bài hát...";
-                    status.style.color = "#4caf50";
+                    status.style.color = "#3eb9a8";
                 }, { once: true }); 
             });
         });
@@ -89,3 +93,10 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
