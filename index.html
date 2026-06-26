@@ -9,8 +9,7 @@ body {
             margin: 0;
             padding: 0;
 
-            background: linear-gradient(rgba(15, 15, 26, 0.6), rgba(15, 15, 26, 0.8)), 
-                        url('https://github.com/user-attachments/assets/3cc62878-f1d1-473e-adea-76052f8d8f3c') no-repeat center center fixed;
+            background: url('https://github.com/user-attachments/assets/3cc62878-f1d1-473e-adea-76052f8d8f3c') no-repeat center center fixed;
             background-size: cover;
             color: #ffffff;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -22,11 +21,12 @@ body {
         }
 
         .container {
-            background: rgba(255, 255, 255, 0.05);
+            background: rgba(15, 15, 26, 0.75);
             padding: 40px;
             border-radius: 20px;
-            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
-            backdrop-filter: blur(10px);
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+            backdrop-filter: blur(8px);
+            -webkit-backdrop-filter: blur(8px);
             border: 1px solid rgba(255, 255, 255, 0.1);
             max-width: 400px;
             width: 90%;
@@ -75,7 +75,7 @@ body {
 
             
             audio.play().then(() => {
-                status.textContent = "🎵 Đang hát cho em nghe...";
+                status.textContent = "🎵 Đang hát cho em nghe nè...";
                 status.style.color = "#5aa371";
             }).catch(error => {
                 
@@ -84,7 +84,7 @@ body {
                                 
                 document.addEventListener('click', () => {
                     audio.play();
-                    status.textContent = "🎵 Đang phát bài hát...";
+                    status.textContent = "🎵 Đang hát cho em nghe nè...";
                     status.style.color = "#3eb9a8";
                 }, { once: true }); 
             });
