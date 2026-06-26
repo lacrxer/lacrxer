@@ -64,28 +64,28 @@ ${
 
 <p align="center">
 ${
-\color{#a6cbc9}⚜Fandom:\
-\color{#8eb8c5}gay,\
-\color{#799c0}les,\
-\color{#6170ba}F1,\
-\color{#5a4db4}sleep.\
+\color{#80ddbf}⚜Fandom:\
+\color{#80ecf2}gay,\
+\color{#59b5f6}les,\
+\color{#5d94e6}F1,\
+\color{#3467b5}sleep.\
 }$
 
 <p align="center">
 ${
-\color{#bdc0cb}⚜My\
-\color{#7dcfdd}sweetie:\
+\color{#36dfbd}⚜My\
+\color{#4fe566}sweetie:\
 }$
 
 [con cho dien cute meo meo](https://github.com/Aptx-sgh)
 
 <p align="center">
 ${
-\color{#c9040f}⚜No\
-\color{#c62442}interactions:\
-\color{#c3436a}animalplay,\
-\color{#DE2F65}family relationsip,\
-\color{#9e0232}delusions!!!\
+\color{#227e9d}⚜No\
+\color{#13c2b7}interactions:\
+\color{#06f284}animalplay,\
+\color{#9bff6c}family relationsip,\
+\color{#fbf09e}delusions!!!\
 }$
 
 <p align="center">
