@@ -76,7 +76,7 @@ ${
 \color{#4fe566}sweetie:\
 }$
 
-[con cho dien cute meo meo](https://github.com/Aptx-sgh)
+[Beo gay ♡](https://github.com/Aptx-sgh)
 
 <p align="center">
 ${
