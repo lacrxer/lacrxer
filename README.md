@@ -85,7 +85,8 @@ ${
 \color{#fbf09e}delusions!!!\
 }$
 
-  
+  .
+
 <img width="80" src="https://github.com/user-attachments/assets/cc61e3a2-e852-42f0-9e83-4a99fe69ad54" />
 <img width="80" src="https://github.com/user-attachments/assets/9887ed29-f39e-401b-a34a-0f6e694a4f21" />
 <img width="80" src="https://github.com/user-attachments/assets/7cb657df-229c-414f-aa56-9e1c5d68a620" />
