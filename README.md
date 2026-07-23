@@ -27,9 +27,7 @@ ${
 <img width="400" src="https://github.com/user-attachments/assets/58c01e60-2ebb-42e5-a771-ff287a31d779" align="right"/>
 
 <p align="center">
-${
-  \color{#d9ed92}hi☺\
-}$
+${\color{#d9ed92}hi☺\}$
 
 <p align="center">
 ${
