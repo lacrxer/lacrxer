@@ -28,6 +28,7 @@ ${
 
 <p align="center">
 ${\color{#d9ed92}hi☺\}$
+</p>
 
 <p align="center">
 ${
