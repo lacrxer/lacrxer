@@ -28,7 +28,7 @@ ${
 
 <p align="center">
 ${
-  \color{#d9ed92}hi☺\
+  \color{#d9ed92}          hi☺           \
   }$
 </p>
 
