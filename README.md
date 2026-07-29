@@ -77,7 +77,7 @@ ${
 \color{#4fe566}sweetie:\
 }$
 
-[Beo gay ♡](https://github.com/Aptx-sgh)
+[13s gay ♡](https://github.com/Aptx-sgh)
 
 <p align="center">
 ${
